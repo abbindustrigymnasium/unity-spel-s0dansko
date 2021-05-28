@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - groundLayer
+  - Enemies
+  - Portals
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: hidden
+    uniqueID: 3779612009
+    locked: 0
+  - name: background
+    uniqueID: 3182807311
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: blue-layer
+    uniqueID: 3112334311
+    locked: 0
+  - name: blue-tree-layer
+    uniqueID: 4012417701
+    locked: 0
+  - name: behind-blur-tree-layer
+    uniqueID: 3952035143
+    locked: 0
+  - name: blur-light-layer
+    uniqueID: 2972319791
+    locked: 0
+  - name: blur-tree-layer
+    uniqueID: 2258856917
+    locked: 0
+  - name: behind-tree-layer
+    uniqueID: 1706938837
+    locked: 0
+  - name: close-light-layer
+    uniqueID: 3921942463
+    locked: 0
+  - name: close-tree-layer
+    uniqueID: 3954724427
+    locked: 0
+  - name: torches
+    uniqueID: 716738775
+    locked: 0
+  - name: portal-layer
+    uniqueID: 4078423011
+    locked: 0
+  - name: leaf-layer
+    uniqueID: 981650101
+    locked: 0
+  - name: enemy-goblin
+    uniqueID: 759029097
+    locked: 0
+  - name: Character
+    uniqueID: 867996977
+    locked: 0
+  - name: grass-layer
+    uniqueID: 1669493197
+    locked: 0
+  - name: dirt-layer
+    uniqueID: 958298191
+    locked: 0
